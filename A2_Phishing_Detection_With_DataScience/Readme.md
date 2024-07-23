@@ -4,11 +4,11 @@
 
 This project aims to develop a phishing detection system utilizing Natural Language Processing (NLP) techniques. The goal is to identify potentially malicious content within emails and messages, providing an additional layer of security for users.
 
-**Technologies Used **
+**Technologies Used**
 
-Python
-Natural Language Processing (NLP) library ( NLTK)
-Machine Learning algorithms (Logistic Regression, naive bayes)
+1. Python
+2. Natural Language Processing (NLP) library ( NLTK)
+3. Machine Learning algorithms (Logistic Regression, naive bayes)
 
 **Key Features**
 
